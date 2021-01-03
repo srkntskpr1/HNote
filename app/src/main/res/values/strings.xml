@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HNote</string>
+    <string name="not_alt_baslik">Not Alt Başlığı</string>
+    <string name="bir_seyler_yazin">Bir şeyler yazın...</string>
+    <string name="secenekler">Seçenekler</string>
+    <string name="secili_renk">Renk</string>
+    <string name="silme_onay">Seçilen notu silmek istediğinizden emin misiniz ?</string>
+    <string name="delete_note_str">TAMAM</string>
+    <string name="delete_note_cancel">İPTAL</string>
+</resources>
